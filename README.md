@@ -1,4 +1,3 @@
-# nassau-candy-profitability-analysis
 # Nassau Candy Profitability Dashboard
 
 ## Objective
